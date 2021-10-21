@@ -1,0 +1,23 @@
+
+#logo img {
+    height: 100px;
+    float: left;
+}
+
+#navLinks {
+    background-color: lightgray;
+    height: 50px;
+    line-height: 50px;
+    width: auto;
+    text-align: right;
+    float: right;
+}
+
+#navLinks li {
+    display: inline;
+    padding-right: 10px;
+}
+
+#mainContent {
+    clear: both;
+}
