@@ -1,3 +1,3 @@
-# History of the Internet IS601
+# History of the Internet Project
 
-[History of Internet](http://history1.eastus.azurecontainer.io)
+[Different layouts](http://zlayout69.eastus.azurecontainer.io)

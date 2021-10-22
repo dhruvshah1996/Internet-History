@@ -1,4 +1,3 @@
-
 #primaryLinks {
     background-color: lightgray;
     height: 50px;
@@ -41,11 +40,10 @@ li a {
     padding-right: 10px;
 }
 
-/*body {
-    background-image: url('images/HomePageBackground.jpeg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-}*/
+#Image {
+    clear: both;
+}
 
-
+#footer {
+    text-align: right;
+}
